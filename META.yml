@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Text-Unicode-Equivalents
-version:            0.04
+version:            0.05
 abstract:           Build Unicode canonically equivalent strings
 author:
     - BHALLISSY@cpan.org
